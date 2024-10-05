@@ -18,8 +18,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-&nbsp;![](https://komarev.com/ghpvc/?username=sriram-gadde&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriram-gadde&show_icons=true&locale=en" alt="sriram-gadde" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-gadde&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-</p>
-
